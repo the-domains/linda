@@ -1,4 +1,3 @@
-layout_spectrum: 0.11889748205430806
 typography_spectrum: 0.8118964636232704
 color:
   brandStrength: 0.403074212372303
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
+layout_spectrum: 0.11889748205430806
 name: Linda
+title: Vvvbb
